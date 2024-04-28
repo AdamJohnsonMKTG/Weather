@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f8ff; /* Light shade of blue */
+}
+
+.container {
+    text-align: center;
+    background-color: white; /* Background color for the content area */
+    padding: 20px;
+    border-radius: 10px; /* Optional: Adds rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+}
+
+.weather {
+    margin: 20px 0;
+}
